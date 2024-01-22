@@ -33,3 +33,5 @@ Lack of consistency in design.
 ユーザーごとにデータベースの作成または表示が実装されていません。
 一覧画面の曜日配置が毎月変わっています。
 デザインに統一性がない。
+
+![Screenshot from 2024-01-22 17-15-01](https://github.com/yuhe-02/manage_money/assets/130891946/e5fe6665-afb9-4a54-afe4-c2c8292e2a82)
